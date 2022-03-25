@@ -1,0 +1,15 @@
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\bin\Debug\net6.0\PRODUTOS( UDEMY).exe
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\bin\Debug\net6.0\PRODUTOS( UDEMY).deps.json
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\bin\Debug\net6.0\PRODUTOS( UDEMY).runtimeconfig.json
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\bin\Debug\net6.0\PRODUTOS( UDEMY).dll
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\bin\Debug\net6.0\PRODUTOS( UDEMY).pdb
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\PRODUTOS( UDEMY).csproj.AssemblyReference.cache
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\PRODUTOS( UDEMY).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\PRODUTOS( UDEMY).AssemblyInfoInputs.cache
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\PRODUTOS( UDEMY).AssemblyInfo.cs
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\PRODUTOS( UDEMY).csproj.CoreCompileInputs.cache
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\PRODUTOS( UDEMY).dll
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\refint\PRODUTOS( UDEMY).dll
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\PRODUTOS( UDEMY).pdb
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\PRODUTOS( UDEMY).genruntimeconfig.cache
+C:\Users\luizi\Desktop\Uri\PROJECT\PRODUTOS( UDEMY)\obj\Debug\net6.0\ref\PRODUTOS( UDEMY).dll

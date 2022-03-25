@@ -1,0 +1,15 @@
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\bin\Debug\net6.0\EXERCICOS DE CLASSES.exe
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\bin\Debug\net6.0\EXERCICOS DE CLASSES.deps.json
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\bin\Debug\net6.0\EXERCICOS DE CLASSES.runtimeconfig.json
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\bin\Debug\net6.0\EXERCICOS DE CLASSES.dll
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\bin\Debug\net6.0\EXERCICOS DE CLASSES.pdb
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\EXERCICOS DE CLASSES.csproj.AssemblyReference.cache
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\EXERCICOS DE CLASSES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\EXERCICOS DE CLASSES.AssemblyInfoInputs.cache
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\EXERCICOS DE CLASSES.AssemblyInfo.cs
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\EXERCICOS DE CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\EXERCICOS DE CLASSES.dll
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\refint\EXERCICOS DE CLASSES.dll
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\EXERCICOS DE CLASSES.pdb
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\EXERCICOS DE CLASSES.genruntimeconfig.cache
+C:\Users\luizi\Desktop\Uri\EXERCICOS DE CLASSES\EXERCICOS DE CLASSES\obj\Debug\net6.0\ref\EXERCICOS DE CLASSES.dll
